@@ -7,6 +7,6 @@
 ###Create
 #####http://web-status-api-heroku.herokuapp.com/webstate/create/?url='asdfasd'[&other=asdf]
 ###Update
-#####http://web-status-api-heroku.herokuapp.com/webstate/update/<id>/?url=X[&other=asdf]
+#####http://web-status-api-heroku.herokuapp.com/webstate/update/id/?url=X[&other=asdf]
 ###Destroy
-#####http://web-status-api-heroku.herokuapp.com/webstate/destroy/<id>
+#####http://web-status-api-heroku.herokuapp.com/webstate/destroy/id
